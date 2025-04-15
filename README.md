@@ -1,5 +1,5 @@
 # Exploring "biaoqing": an analysis of Chinese digital culture <br>
-This repository contains the code and datasets associated with my senior thesis. <br>
+*This repository contains the code and datasets associated with my senior thesis.* <br>
 <p align="center"><em>Abstract:</em></p>
 <p style="text-indent: 2em;">
 Memes have become a central aspect of online culture, serving as a medium for individuals to express sentiments, humor, and social commentary in creative and accessible ways. They appear in Chinese social media as biǎoqíng (表情), literally meaning “facial expression,” widely utilized and characterized by their incorporation of cultural references, idiomatic expressions, and conveyance of subtle social messages. <br></p>
